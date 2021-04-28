@@ -12,7 +12,7 @@ import (
 	"strings"
 	"syscall"
 
-	"gnd.la/config"
+	"github.com/wixregiga/gondola/config"
 	"github.com/wixregiga/gondola/log"
 
 	"github.com/fiam/stringutil"
