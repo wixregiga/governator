@@ -13,7 +13,7 @@ import (
 	"syscall"
 
 	"gnd.la/config"
-	"log"
+	"github.com/wixregiga/gondola/log"
 
 	"github.com/fiam/stringutil"
 )

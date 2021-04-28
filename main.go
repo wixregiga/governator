@@ -9,7 +9,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"log"
+	"github.com/wixregiga/gondola/log"
 )
 
 var (

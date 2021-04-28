@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"log"
+	"github.com/wixregiga/gondola/log"
 	"gopkg.in/fsnotify.v0"
 )
 

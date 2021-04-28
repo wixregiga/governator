@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"log"
+	"github.com/wixregiga/gondola/log"
 )
 
 func writeText(t *testing.T, w *fileWriter) {

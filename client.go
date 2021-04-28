@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"log"
+	"github.com/wixregiga/gondola/log"
 
 	"github.com/fiam/stringutil"
 )

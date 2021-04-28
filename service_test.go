@@ -14,7 +14,7 @@ import (
 	"testing"
 	"time"
 
-	"log"
+	"github.com/wixregiga/gondola/log"
 )
 
 var (

@@ -10,7 +10,7 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"log"
+	"github.com/wixregiga/gondola/log"
 )
 
 func (g *Governator) serveConn(conn net.Conn) error {

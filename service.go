@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"time"
 
-	"log"
+	"github.com/wixregiga/gondola/log"
 )
 
 var (

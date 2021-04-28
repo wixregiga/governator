@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"log"
+	"github.com/wixregiga/gondola/log"
 )
 
 type fileWriter struct {
