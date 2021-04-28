@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"gnd.la/log"
+	"log"
 )
 
 func writeText(t *testing.T, w *fileWriter) {

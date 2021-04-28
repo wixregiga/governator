@@ -9,7 +9,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"gnd.la/log"
+	"log"
 )
 
 var (

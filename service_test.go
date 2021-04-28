@@ -14,7 +14,7 @@ import (
 	"testing"
 	"time"
 
-	"gnd.la/log"
+	"log"
 )
 
 var (

@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"gnd.la/log"
+	"log"
 )
 
 type fileWriter struct {

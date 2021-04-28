@@ -13,7 +13,7 @@ import (
 	"syscall"
 
 	"gnd.la/config"
-	"gnd.la/log"
+	"log"
 
 	"github.com/fiam/stringutil"
 )

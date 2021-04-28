@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"gnd.la/log"
+	"log"
 
 	"github.com/fiam/stringutil"
 )

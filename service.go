@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"time"
 
-	"gnd.la/log"
+	"log"
 )
 
 var (

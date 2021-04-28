@@ -10,7 +10,7 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"gnd.la/log"
+	"log"
 )
 
 func (g *Governator) serveConn(conn net.Conn) error {

@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"gnd.la/log"
+	"log"
 	"gopkg.in/fsnotify.v0"
 )
 
